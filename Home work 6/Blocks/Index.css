@@ -1,0 +1,317 @@
+*{
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: serif;
+}
+.box1{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: -25px;
+    left: 50%;
+    margin-left: -50px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box2{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: -25px;
+    left: 50%;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box3{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: -25px;
+    left: 50%;
+    margin-left: 50px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: red;
+}
+.box4{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: -25px;
+    left: 50%;
+    margin-left: 100px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box5{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 25px;
+    left: 50%;
+    margin-left: -50px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box6{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 25px;
+    left: 50%;
+    margin-left: 0px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box7{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 25px;
+    left: 50%;
+    margin-left: 50px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: red;
+}
+.box8{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 25px;
+    left: 50%;
+    margin-left: 100px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box9{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 75px;
+    left: 50%;
+    margin-left: -50px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box10{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 75px;
+    left: 50%;
+    margin-left: 0px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box11{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 75px;
+    left: 50%;
+    margin-left: 50px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: red;
+}
+.box12{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 75px;
+    left: 50%;
+    margin-left: 100px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box13{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 125px;
+    left: 50%;
+    margin-left: -50px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box14{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 125px;
+    left: 50%;
+    margin-left: 0px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box15{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 125px;
+    left: 50%;
+    margin-left: 50px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: red;
+}
+.box16{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 125px;
+    left: 50%;
+    margin-left: 100px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box17{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 175px;
+    left: 50%;
+    margin-left: -50px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box18{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 175px;
+    left: 50%;
+    margin-left: 0px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box19{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 175px;
+    left: 50%;
+    margin-left: 50px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: red;
+}
+.box20{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 175px;
+    left: 50%;
+    margin-left: 100px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box21{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 225px;
+    left: 50%;
+    margin-left: -50px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: blue;
+}
+.box22{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 225px;
+    left: 50%;
+    margin-left: 0px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: blue;
+}
+.box23{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 225px;
+    left: 50%;
+    margin-left: 50px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: red;
+}
+.box24{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+    position: absolute;
+    top: 40%;
+    margin-top: 225px;
+    left: 50%;
+    margin-left: 100px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: blue;
+}
+.btn{
+    width: 350px;
+    height: 55px;
+    background-color:#43D3A8;
+    color: white;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    top: 90%;
+    padding-top: 20px;
+    left: 50%;
+    margin-left: -125px;
+    border-radius: 32px;
+}

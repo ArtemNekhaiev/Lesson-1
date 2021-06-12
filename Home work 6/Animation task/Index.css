@@ -1,0 +1,125 @@
+<style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .box{
+            width: 45px;
+            height: 25px;
+            background-color: white;
+            float: left;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin-left: -80px;
+            animation-name: box;
+            animation-duration: 1s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            background-image: url(Images/lego_PNG66.png);
+            background-size: cover;
+        }
+        .box2{
+            width: 45px;
+            height: 25px;
+            background-color: white;
+            float: left;
+            position: absolute;
+            top: 50%;
+            left: 52%;
+            margin-left: -60px;
+            animation-name: box2;
+            animation-duration: 1s;
+            animation-iteration-count: infinite;
+            background-image: url(Images/2.png);
+            background-size: cover;
+        }
+        .box3{
+            width: 45px;
+            height: 25px;
+            background-color: white;
+            float: left;
+            position: absolute;
+            top: 50%;
+            left: 54%;
+            margin-left: -40px;
+            animation-name: box3;
+            animation-duration: 1s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            background-image: url(Images/3.png);
+            background-size: cover;
+        }
+        .box4{
+            width: 45px;
+            height: 25px;
+            background-color: white;
+            float: left;
+            position: absolute;
+            top: 50%;
+            left: 56%;
+            margin-left: -20px;
+            animation-name: box4;
+            animation-duration: 1s;
+            animation-iteration-count: infinite;
+            background-image: url(Images/4.png);
+            background-size: cover;
+        }
+        @keyframes box{
+            0%{
+                top: 50%;
+                left: 50%;
+            }
+            50%{
+                top: 51%;
+                left: 50%;
+            }
+            100%{
+                top: 50%;
+                left: 50%;
+            }
+        }
+        @keyframes box2{
+            0%{
+                top: 50%;
+                left: 52%;
+            }
+            50%{
+                top: 51%;
+                left: 52%;
+            }
+            100%{
+                top: 50%;
+                left: 52%;
+            }
+        }
+        @keyframes box3{
+             0%{
+                top: 50%;
+                left: 54%;
+            }
+            50%{
+                top: 51%;
+                left: 54%;
+            }
+            100%{
+                top: 50%;
+                left: 54%;
+            }
+        }
+        @keyframes box4{
+            0%{
+                top: 50%;
+                left: 56%;
+            }
+            50%{
+                top: 51%;
+                left: 56%;
+            }
+            100%{
+                top: 50%;
+                left: 56%;
+            }
+        }
+    </style>
